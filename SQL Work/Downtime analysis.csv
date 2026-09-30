@@ -1,0 +1,6 @@
+Downtime_Category,Total_Events,Total_Lost_Hours,Pct_of_Total_Downtime,Cumulative_Downtime_Pct
+"Tool Changeover",314907,115831.52,29.92,29.92
+"Mechanical Failure",261488,96382.42,24.90,54.82
+"Electrical Fault",210437,77858.53,20.11,74.93
+"Material Starvation",157792,57942.99,14.97,89.90
+"Preventive Maintenance",105376,39094.64,10.10,100.00

@@ -36,7 +36,7 @@ yamato-manufacturing-analytics/
     └── page4.png                                      <-- IoT Telemetry & Predictive Machine Health
 ```
 > Data Storage Note: Due to GitHub's file size limit (the raw CSV files total over 260 MB, and the PBIX contains ~113 MB of imported data), the cleaned production tables and raw source datasets are hosted on Google Drive.
-> 🔗 Download Clean Datasets & Raw CSVs (Google Drive Link)
+> 🔗 Download Clean Datasets & Raw CSVs https://drive.google.com/drive/folders/1fMMjPCQvVoAAUGNAoEfNiZ_8rOwjCGyI
 --- 
 ## 🏗️ Data Architecture & Star Schema Model
 The relational model ingests multi-million-row staging tables in MySQL, applies structural validation, and exports an optimized star schema for Power BI:
